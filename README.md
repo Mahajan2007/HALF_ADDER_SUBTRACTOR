@@ -2,6 +2,10 @@
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
+## Developed by:Mahajannai.R 
+## RegisterNumber:*/212224230147
+## Date: 19.03.2025
+
 **AIM:**
 
 To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -75,7 +79,7 @@ Figure -02 HALF Subtractor
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by:Mahajannai.R RegisterNumber:*/212224230147
+
 
 **RTL Schematic**
 
